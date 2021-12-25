@@ -6,7 +6,7 @@ EAPI=7
 inherit font
 DESCRIPTION="Nerd font version of Iosevka"
 HOMEPAGE="https://github.com/ryanoasis/nerd-fonts/"
-SRC_URI="https://github.com/ryanoasis/nerd-fonts/releases/download/v${PV}/Iosevka.zip"
+SRC_URI="https://github.com/ryanoasis/nerd-fonts/releases/download/v${PV}/CascadiaCode.zip"
 
 LICENSE="MIT"
 SLOT="0"
